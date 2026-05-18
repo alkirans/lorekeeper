@@ -48,7 +48,7 @@ return [
     | It is not, however, displayed on the site itself. This should be kept short and snappy!
     |
     */
-    'site_desc' => 'A Lorekeeper ARPG',
+    'site_desc' => 'Welcome to Gaidinia - The magical world of various humanoid closed species. Gaidinia is a land created by the great god, the father of all deities, the one who is watching. A magical world unlike any other, appearing in the middle of the universe. Gaidinia is a world rich for history and mythology.',
 
     /*
     |--------------------------------------------------------------------------
